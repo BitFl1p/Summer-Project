@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 2138677392}
-  m_IndirectSpecularColor: {r: 0.28502667, g: 0.37139323, b: 0.49600998, a: 1}
+  m_IndirectSpecularColor: {r: 0.2850269, g: 0.3713935, b: 0.49601045, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -186,10 +186,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6371994904663562427, guid: 5beb52c8e4a117040ae916e02c754bcf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 46fbde061238e6d4da0e72822df80bbb, type: 2}
+    - target: {fileID: -92488790911041530, guid: 5beb52c8e4a117040ae916e02c754bcf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bed1386e2cef6ed49872a48f8f1da874, type: 2}
+    - target: {fileID: 735893306639712980, guid: 5beb52c8e4a117040ae916e02c754bcf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 762a9b2178c78c748a9e1b54a45e2033, type: 2}
     - target: {fileID: 919132149155446097, guid: 5beb52c8e4a117040ae916e02c754bcf, type: 3}
       propertyPath: m_Name
       value: alex mercer
       objectReference: {fileID: 0}
+    - target: {fileID: 2963050095383783118, guid: 5beb52c8e4a117040ae916e02c754bcf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b5795156112f5cb48ae8da1f5f11ed91, type: 2}
     - target: {fileID: 5866666021909216657, guid: 5beb52c8e4a117040ae916e02c754bcf, type: 3}
       propertyPath: m_Controller
       value: 
@@ -198,6 +214,10 @@ PrefabInstance:
       propertyPath: m_ApplyRootMotion
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8692263184359003466, guid: 5beb52c8e4a117040ae916e02c754bcf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: eb4934c7a537b3f4ea1a6e0d93d38089, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5beb52c8e4a117040ae916e02c754bcf, type: 3}
 --- !u!1 &1687258581
